@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoresProcedures", "StoresProcedures\StoresProcedures.csproj", "{FFD729AF-E20B-4788-8C66-101D7857C284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD729AF-E20B-4788-8C66-101D7857C284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD729AF-E20B-4788-8C66-101D7857C284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD729AF-E20B-4788-8C66-101D7857C284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD729AF-E20B-4788-8C66-101D7857C284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
