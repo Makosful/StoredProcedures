@@ -1,4 +1,4 @@
-ALTER PROCEDURE usp_GetDepartment
+CREATE PROCEDURE usp_GetDepartment
 (
 	@DNumber	INT
 )
